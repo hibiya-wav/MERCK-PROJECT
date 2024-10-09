@@ -20,7 +20,6 @@ We use the data provided by Merck to fill in the slots required by the company t
 
 ### Matching Fields in Documents and Excel Data
 
-- `<insert Application number>` -> RDAAR column `[]`
 - Reporting Period (Report Start, Report End) `<DD-MMM-YYYY>` -> RDAAR column `[Report Start, Report End]`
 - `<insert Compound number>` -> RDAAR column `[MK]`
   - My closest guess for this one is "MK-#"
